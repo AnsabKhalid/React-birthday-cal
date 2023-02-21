@@ -1,0 +1,25 @@
+.center {
+    margin-left: 35%;
+    margin-right: 33%;
+    margin-top: 25vh;
+    padding: 80px 60px 50px 75px;
+    background-color: aliceblue;
+    border-width: 8px;
+    border-radius: 10px;
+}
+
+.margin {
+    margin-top: 30px;
+}
+
+.image {
+    width: 80px;
+    margin-bottom: 30px;
+}
+
+.line {
+    display: inline-block;
+    margin: 20px 0 0 20px;
+    font-family: italic;
+    align-items: center;
+}
